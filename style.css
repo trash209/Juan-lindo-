@@ -5,5 +5,5 @@
     --cor-fundo: black;
 }
 body{
-    background-color: var{var(--cor-fundo};
+    background-color: var(--cor-fundo);
 }
